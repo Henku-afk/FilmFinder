@@ -17,9 +17,20 @@
        url('../fonts/inter-v12-latin_cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 html{
- box-sizing: border-box; 
+ box-sizing: border-box;
+ background-color: black;
 }
 
 *, *::before, *::after{
   box-sizing: inherit;
+}
+
+.logo_header {
+  position: absolute;
+  width: 142.2px;
+  height: 132.78px;
+  left: 151.58px;
+  top: 3px;
+
+  transform: rotate(43.01deg);
 }
