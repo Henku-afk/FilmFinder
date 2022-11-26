@@ -25,19 +25,11 @@ html{
   box-sizing: inherit;
 }
 
-.logoheaderpic {
+.header {
   position: absolute;
   width: 142.2px;
   height: 132.78px;
   left: 151.58px;
   top: 3px;
   transform: rotate(45deg);
-}
-
-.menupic {
- position: absolute;
- width: 50px;
- height: 0px;
- left: 1480px;
- top: 3px; 
 }
