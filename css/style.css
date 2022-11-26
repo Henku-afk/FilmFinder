@@ -33,3 +33,11 @@ html{
   top: 3px;
   transform: rotate(45deg);
 }
+
+.menu {
+ position: absolute;
+ width: 50px;
+ height: 0px;
+ left: 1480px;
+ top: 3px; 
+}
