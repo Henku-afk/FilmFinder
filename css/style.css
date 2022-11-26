@@ -25,6 +25,11 @@ html{
   box-sizing: inherit;
 }
 
+.wrapper {
+  max-width: 1060px;
+  margin: 0 auto;
+}
+
 .logoheader {
   position: absolute;
   width: 142.2px;
