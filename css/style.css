@@ -16,9 +16,17 @@
        url('../fonts/inter-v12-latin_cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/inter-v12-latin_cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+html{
+ box-sizing: border-box; 
+}
+
+*, *::before, *::after{
+  box-sizing: inherit;
+}
 
 .item{
   width: 200px;
   height: 100px;
   background-color: green;
+  padding: 20px;
 }
