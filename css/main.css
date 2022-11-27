@@ -5,6 +5,7 @@
 }
 vk, tg {
   box-sizing: border-box;
+    width: 20px;
     height: auto;
 }
 body {
