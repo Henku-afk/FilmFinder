@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-    width: 75%;
+    width: 100%;
     height: auto;
 }
 body {
@@ -19,7 +19,7 @@ body {
 .v15_124 {
   width: 365px;
   height: 365px;
-  background: rgba(216,132,212,1);
+  background: rgba(216,132,212,0);
   opacity: 1;
   position: absolute;
   top: 3513px;
@@ -29,7 +29,7 @@ body {
 .v15_123 {
   width: 365px;
   height: 365px;
-  background: rgba(0,193,255,1);
+  background: rgba(0,193,255,0);
   opacity: 1;
   position: absolute;
   top: 3513px;
@@ -39,7 +39,7 @@ body {
 .v15_120 {
   width: 365px;
   height: 365px;
-  background: rgba(157,0,254,1);
+  background: rgba(157,0,254,0);
   opacity: 1;
   position: absolute;
   top: 3237px;
@@ -49,7 +49,7 @@ body {
 .v15_121 {
   width: 365px;
   height: 365px;
-  background: rgba(253,243,0,1);
+  background: rgba(253,243,0,0);
   opacity: 1;
   position: absolute;
   top: 3234px;
@@ -59,7 +59,7 @@ body {
 .v23_140 {
   width: 365px;
   height: 365px;
-  background: rgba(255,255,255,1);
+  background: rgba(255,255,255,0);
   opacity: 1;
   position: absolute;
   top: 3513px;
@@ -69,7 +69,7 @@ body {
 .v15_122 {
   width: 365px;
   height: 365px;
-  background: rgba(134,125,125,1);
+  background: rgba(134,125,125,0);
   opacity: 1;
   position: absolute;
   top: 3237px;
@@ -79,7 +79,7 @@ body {
 .v15_117 {
   width: 365px;
   height: 365px;
-  background: rgba(255,168,0,1);
+  background: rgba(255,168,0,0);
   opacity: 1;
   position: absolute;
   top: 2664px;
@@ -89,7 +89,7 @@ body {
 .v15_119 {
   width: 365px;
   height: 365px;
-  background: rgba(66,236,174,1);
+  background: rgba(66,236,174,0);
   opacity: 1;
   position: absolute;
   top: 2955px;
@@ -99,7 +99,7 @@ body {
 .v15_118 {
   width: 365px;
   height: 365px;
-  background: rgba(4,134,255,1);
+  background: rgba(4,134,255,0);
   opacity: 1;
   position: absolute;
   top: 2955px;
@@ -118,7 +118,7 @@ body {
 .v15_106 {
   width: 365px;
   height: 365px;
-  background: rgba(206,243,1,1);
+  background: rgba(206,243,1,0);
   opacity: 1;
   position: absolute;
   top: 2655px;
@@ -636,7 +636,7 @@ body {
 .v15_87 {
   width: 400px;
   height: 200px;
-  background: url("../images/v15_87.png");
+  background: url("../images/group_22.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -778,7 +778,7 @@ body {
 .v15_110 {
   width: 400px;
   height: 200px;
-  background: rgba(0,0,0,1);
+  background: rgba(0,0,0,0);
   opacity: 1;
   position: absolute;
   top: 3032px;
