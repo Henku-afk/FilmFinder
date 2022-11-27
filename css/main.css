@@ -107,6 +107,7 @@ body {
 .v15_105 {
   width: 365px;
   height: 365px;
+  background: rgba(255,0,0,0);
   opacity: 1;
   position: absolute;
   top: 2644px;
